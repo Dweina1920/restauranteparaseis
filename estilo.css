@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.tittle {
+    font-size: 40px;
+    text-align:left; 
+}
+.cajaprincipal {
+    width: 100%;
+    display: flex;  
+    justify-content: space-between;
+}
+.caja1 {
+    width: 142px;
+    height: 121px;
+    columns: flex;
+   margin-left: 8%;
+    color: gray;
+}
+.caja2 {
+    width: 142px;
+    height: 121px;
+    columns:  left;
+}
+
+
+
+
+
+
